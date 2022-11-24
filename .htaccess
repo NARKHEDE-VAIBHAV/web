@@ -1,0 +1,5 @@
+RewriteEngine on
+# directory browsing
+RewriteRule ^blog/([^/.]+)/([^/.]+)/{0,1}$   blog.php?key=$1&value2=$2 [QSA,L]
+RewriteRule ^test/([^/.]+)/([^/.]+)/{0,1}$   test.php?key=$1&value2=$2 [QSA,L]
+
