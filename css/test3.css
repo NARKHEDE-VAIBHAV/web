@@ -1,0 +1,15 @@
+
+#homee {
+  background: url('../images/bg-4.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
+  padding-top: 180px;
+  padding-bottom: 100px;
+}
+#homee h1,
+#homee h3 {
+  line-height: 30px;
+  font-size: 40px;
+}
+

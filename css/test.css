@@ -1,0 +1,80 @@
+.dg-industries-experts{ padding:20px 0px 0px;}.dg-industries-experts .container>h2{font-size:35px;line-height:35px;/* text-transform:uppercase; */color:#000000;margin:20px 0 20px}.dg-industries-experts .container>h3{position:relative;font-size:26px;line-height:150%;color:#e03c31;/* margin-bottom:50px */}.dg-industries-experts .container>h3 span{background:#f2f4f6;z-index:9;position:relative}.dg-industries-experts .container>h3::before{content:"";width:100%;height:1px;/* background:#bfccd2; */position:absolute;top:15px;left:0}.dg-industries-experts .experts-wrap{display:flex;justify-content:space-between}.dg-industries-experts .experts-wrap>div{width:calc(50% - 20px)}.dg-industries-experts .experts-wrap .initial-content .initial p{font-size:17px;line-height:1.6;color:#000000}.dg-industries-experts .experts-wrap .initial-content .initial p.angebot-button{color:#fff;display:inline-block;font-size:16px;line-height:1;padding:12px 50px}.dg-industries-experts .experts-wrap .expert-profile{position:relative;padding:50px;background:#fff;box-shadow:0px 0px 30px rgba(0,0,0,0.1)}.dg-industries-experts .experts-wrap .expert-profile .close{position:absolute;top:25px;right:25px;cursor:pointer}.dg-industries-experts .experts-wrap .expert-profile>div{position:relative;margin-bottom:30px;transition:.2s all ease}.dg-industries-experts .experts-wrap .expert-profile>div img{width:100%;height:auto;display:block}.dg-industries-experts .experts-wrap .expert-profile>div p{position:absolute;margin:0;bottom:-15px;left:140px;padding:15px;font-size:16px;line-height:19px;font-weight:500;color:#fff;background:linear-gradient(90deg,#9e2b2f 0%,#cb333b 60.42%,#e03c31 100%)}.dg-industries-experts .experts-wrap .expert-profile>div p span{display:block;margin-top:5px;font-weight:normal;font-size:12px;line-height:15px}.dg-industries-experts .experts-wrap .expert-profile p{font-size:14px;line-height:20px;color:#003349;margin-bottom:15px;text-transform:uppercase;padding-left:25px}.dg-industries-experts .experts-wrap .expert-profile>ul{padding-left:25px;margin:0;list-style:none}.dg-industries-experts .experts-wrap .expert-profile>ul li{position:relative;font-size:14px;line-height:20px;color:#0b344b;margin-bottom:15px}.dg-industries-experts .experts-wrap .expert-profile>ul li::before{content:"";display:block;height:5px;width:5px;border-radius:5px;left:-15px;top:5px;background:#9e2b2f;position:absolute}.dg-industries-experts .experts-wrap .experts>div{display:flex;flex-wrap:wrap;justify-content:space-between}.dg-industries-experts .experts-wrap .experts .expert{width:calc(25% - 7px);transition:.2s all ease;margin-bottom:9px;cursor:pointer}.dg-industries-experts .experts-wrap .experts .expert img{width:100%;height:auto;display:block}.dg-industries-experts .experts-wrap .experts .expert:hover{opacity:1}.dg-industries-experts .experts-wrap .experts:hover .expert{opacity:.5}.dg-industries-experts .experts-wrap .experts:hover .expert:hover{opacity:1}@media screen and (max-width:767px){.dg-industries-experts{padding:20px 0px}.dg-industries-experts .container>h2{font-size:28px}.dg-industries-experts .container>h3{font-size:20px}.dg-industries-experts .container>h3::before{display:none}.dg-industries-experts .experts-wrap{flex-direction:column}.dg-industries-experts .experts-wrap>div{width:100%}.dg-industries-experts .experts-wrap .initial-content .initial p.angebot-button{width:100%;display:block;padding:15px}.dg-industries-experts .experts-wrap .expert-profile{padding:50px 20px 20px;top:73px;position:fixed;left:0;z-index:12;bottom:0}.dg-industries-experts .experts-wrap .expert-profile p{padding-left:0}.dg-industries-experts .experts-wrap .expert-profile>div p{position:relative;margin:0;bottom:0;left:0}}
+
+
+.bgcolor {
+    /* background-color: #012446; */
+    background-image: url(../images/bg-7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+    color: #fff !important;
+}
+
+.bgcolornew {
+    background-color: #8080800f;
+    background-image: url(../images/bg-4.png); 
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+    color: #000 !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
